@@ -24,8 +24,7 @@ var StellarSdk = require('stellar-sdk');
 ```
 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`api` section for further information
 
 .. note::
 
