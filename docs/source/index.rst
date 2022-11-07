@@ -13,13 +13,13 @@ Il est utilisé pour créer des applications Stellar sur Node.js ou dans le navi
 
 1. Installation avec npm:
 
-```shell
+```
 npm install --save stellar-sdk
 ```
 
 2. importer dans javascript:
 
-```js
+```
 var StellarSdk = require('stellar-sdk');
 ```
 
