@@ -1,10 +1,28 @@
-Welcome to Lumache's documentation!
+Welcome to Ozalentour documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Ozalentour est une solution de micro-paiement basé sur la technologie Stellar
+que ce soit pour les transactions ou les creations de compte (muxed)
+
+js-stellar-sdk est une bibliothèque Javascript pour communiquer avec un serveur Stellar Horizon. 
+Il est utilisé pour créer des applications Stellar sur Node.js ou dans le navigateur.
+
+## Install
+
+### Utilasation en tant que module dans un projet node
+
+1. Installation avec npm:
+
+```shell
+npm install --save stellar-sdk
+```
+
+2. importer dans javascript:
+
+```js
+var StellarSdk = require('stellar-sdk');
+```
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -18,5 +36,5 @@ Contents
 
 .. toctree::
 
-   usage
+  
    api
