@@ -34,6 +34,7 @@ Contents
 --------
 
 .. toctree::
+docs/source/api.mdx
 
   
    api
