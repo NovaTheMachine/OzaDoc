@@ -1,4 +1,4 @@
-API
+OVERVIEW
 ===
 
   
@@ -6,7 +6,7 @@ API
   Il ingère et réserve les données produites par le réseau Stellar sous une forme plus facile à consommer par l'application par rapport aux représentations de données orientées performances utilisées par Stellar Core.
   
 
-HORIZON
+POURQUOI UTILISER HORIZON ?
 ===
 
 Vous n'etes pas obligés d'exécuter votre propre instance Horizon pour construire sur Stellar : la Stellar Development Foundation exécute deux serveurs Horizon, un pour le réseau public et un pour le réseau de test :https://horizon.stellar.org et https://horizon-testnet.stellar.org.
