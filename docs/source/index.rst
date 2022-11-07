@@ -34,7 +34,7 @@ Contents
 --------
 
 .. toctree::
-docs/source/api.mdx
+https://github.com/NovaTheMachine/OzaDoc/blob/b94ed08ec6fa4d23e66fa236b500ea4cf18767b4/docs/source/api.mdx
 
   
    api
