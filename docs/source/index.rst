@@ -36,3 +36,4 @@ Contents
 .. toctree::
   
    api
+   prerequis
