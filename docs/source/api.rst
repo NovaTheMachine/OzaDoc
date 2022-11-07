@@ -1,5 +1,5 @@
 OVERVIEW
-===
+===================================
 
   
   Horizon est chargé de fournir une API HTTP aux données du réseau Stellar. 
@@ -7,7 +7,7 @@ OVERVIEW
   
 
 POURQUOI UTILISER HORIZON ?
-===
+===================================
 
 Vous n'etes pas obligés d'exécuter votre propre instance Horizon pour construire sur Stellar : la Stellar Development Foundation exécute deux serveurs Horizon, un pour le réseau public et un pour le réseau de test :https://horizon.stellar.org et https://horizon-testnet.stellar.org.
 Ces serveurs sont gratuits , devraient convenir au développement et aux projets à petite échelle. Cependant, leur débit est limité et nous ne recommandons pas de les utiliser pour les services de production nécessitant une fiabilité élevée.
