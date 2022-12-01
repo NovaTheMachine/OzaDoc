@@ -16,6 +16,8 @@ https://bscscan.com/token/0x1E16D4579D6a1471745a20eC491739e201971151#writeContra
    :align: left
    
    
+Cliquez sur "write contract" puis sur "connect to web3"
+   
 .. figure:: ./.screen/Write.PNG
    :scale: 35%
    :align: left
