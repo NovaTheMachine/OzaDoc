@@ -12,4 +12,4 @@ https://bscscan.com/token/0x1E16D4579D6a1471745a20eC491739e201971151#writeContra
 
 
 
-(./.screen/Capture.PNG)
+![bscscan](./.screen/Capture.PNG)
