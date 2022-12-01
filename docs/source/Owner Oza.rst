@@ -14,3 +14,8 @@ https://bscscan.com/token/0x1E16D4579D6a1471745a20eC491739e201971151#writeContra
 .. figure:: ./.screen/Capture.PNG
    :scale: 35%
    :align: left
+   
+   
+   .. figure:: ./.screen/Write.PNG
+   :scale: 35%
+   :align: left
