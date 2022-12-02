@@ -26,7 +26,7 @@ var StellarSdk = require('stellar-sdk');
 
 Check out the :doc:`api` section for further information and :doc:`Prerequis`
 
-There is a notice in order to transfer owner :doc:`Owner Oza`
+There is a notice in order to transfer Owner on a Smart Contract :doc:`Owner Oza`
 
 .. note::
 
@@ -39,3 +39,4 @@ Contents
   
    api
    prerequis
+   Owner Oza
