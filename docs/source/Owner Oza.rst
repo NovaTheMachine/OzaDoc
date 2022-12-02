@@ -2,7 +2,7 @@ Transfert Owner
 =========
 
 Il est conseillé de changer de owner régulierement , afin d'eviter les Hacks . La methode la plus simple consiste a interagir avec le contrat par le biais de BSCscan .
-La methode est la meme pour toutes les blockchains EVM et tout types de smart contracts .
+La methode est la meme pour toutes les blockchains EVM et tous types de smart contracts .
 Pour cela vous devez etre le owner du contrat .
 
 Connectez vous a l'adresse du contrat 
@@ -20,7 +20,7 @@ Cliquez sur "write contract" puis sur "connect to web3"
 
    
    
-Quand vous etes connectés cloquez sur "transfer ownership"   
+Quand vous etes connectés cliquez sur "transfer ownership"   
    
 .. figure:: ./.screen/Trans.PNG
 
