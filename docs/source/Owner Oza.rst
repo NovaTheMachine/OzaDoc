@@ -25,4 +25,4 @@ Quand vous etes connectés cliquez sur "transfer ownership"
 .. figure:: ./.screen/Trans.PNG
 
 
-Etrez la nouvelle adresse owner puis validez
+Entrez la nouvelle adresse owner puis validez
