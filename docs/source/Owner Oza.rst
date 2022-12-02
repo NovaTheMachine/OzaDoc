@@ -23,6 +23,6 @@ Cliquez sur "write contract" puis sur "connect to web3"
    :align: left
    
    
-.. figure:: ./.screen/trans.PNG
+.. figure:: ./.screen/Trans.PNG
    :scale: 35%
    :align: left
