@@ -38,5 +38,5 @@ Contents
 .. toctree::
   
    api
-   prerequis
+   Prerequis
    Owner Oza
