@@ -23,6 +23,10 @@ Cliquez sur "write contract" puis sur "connect to web3"
    :align: left
    
    
+Quand vous etes connectés cloquez sur "transfer ownership"   
+   
 .. figure:: ./.screen/Trans.PNG
    :scale: 35%
    :align: left
+
+Etrez la nouvelle adresse owner puis validez
