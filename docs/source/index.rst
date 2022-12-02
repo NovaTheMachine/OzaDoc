@@ -26,6 +26,8 @@ var StellarSdk = require('stellar-sdk');
 
 Check out the :doc:`api` section for further information and :doc:`Prerequis`
 
+There is a notice in order to transfer owner :doc:`Owner Oza`
+
 .. note::
 
    This project is under active development.
